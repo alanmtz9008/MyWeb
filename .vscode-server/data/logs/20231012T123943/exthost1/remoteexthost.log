@@ -1,0 +1,41 @@
+2023-10-12 12:39:48.038 [info] Extension host with pid 3484 started
+2023-10-12 12:39:48.185 [info] Lock '/home/alan/.vscode-server/data/User/workspaceStorage/c7ab86f192da2ab3fed6ac4c861aae09/vscode.lock': Lock acquired.
+2023-10-12 12:39:48.291 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-12 12:39:48.294 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-10-12 12:39:49.302 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-10-12 12:39:49.349 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-10-12 12:39:49.352 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-12 12:39:50.263 [info] Eager extensions activated
+2023-10-12 12:39:50.265 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-12 12:39:50.270 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-12 12:39:50.272 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-10-12 12:39:57.605 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-10-12 12:40:12.099 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-12 12:40:12.100 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-13 10:55:42.142 [info] Extension host terminating: renderer disconnected for too long (2)
+2023-10-13 10:55:42.158 [info] Lock '/home/alan/.vscode-server/data/User/workspaceStorage/c7ab86f192da2ab3fed6ac4c861aae09/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-10-13 10:55:42.397 [info] Extension host with pid 3484 exiting with code 0
+2023-10-13 11:26:03.196 [info] Extension host with pid 42900 started
+2023-10-13 11:26:03.240 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-13 11:26:03.241 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-10-13 11:26:03.242 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onCommand:extension.liveServer.goOnline'
+2023-10-13 11:26:03.242 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-10-13 11:26:03.243 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-13 11:26:03.243 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-13 11:26:03.726 [info] Lock '/home/alan/.vscode-server/data/User/workspaceStorage/c7ab86f192da2ab3fed6ac4c861aae09/vscode.lock': Lock acquired.
+2023-10-13 11:26:04.245 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-10-13 11:26:04.259 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-10-13 11:26:04.260 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-13 11:26:04.616 [info] Eager extensions activated
+2023-10-13 11:26:04.616 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-13 11:26:04.617 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-13 12:33:50.996 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6117
+2023-10-13 12:33:52.698 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6117
+2023-10-13 13:28:06.855 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6118
+2023-10-13 13:28:26.898 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6117
+2023-10-13 13:28:32.175 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6117
+2023-10-13 13:28:37.616 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6117
+2023-10-13 13:28:53.407 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6117
+2023-10-13 13:28:58.720 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6117
+2023-10-13 13:29:04.335 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6117
+2023-10-13 13:29:14.690 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6117

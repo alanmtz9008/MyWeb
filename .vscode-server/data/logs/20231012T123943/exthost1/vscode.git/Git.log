@@ -1,0 +1,68 @@
+2023-10-12 12:39:50.665 [info] Log level: Info
+2023-10-12 12:39:50.665 [info] Validating found git in: "git"
+2023-10-12 12:39:50.665 [info] Using git "2.34.1" from "git"
+2023-10-12 12:39:50.665 [info] > git rev-parse --show-toplevel [241ms]
+2023-10-12 12:39:50.665 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-12 12:39:50.665 [info] > git rev-parse --show-toplevel [22ms]
+2023-10-12 12:39:50.665 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-12 12:39:50.681 [info] > git rev-parse --show-toplevel [18ms]
+2023-10-12 12:39:50.681 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-12 12:39:50.699 [info] > git rev-parse --show-toplevel [9ms]
+2023-10-12 12:39:50.699 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-12 12:40:12.515 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-12 12:40:12.515 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-13 11:26:04.732 [info] Log level: Info
+2023-10-13 11:26:04.732 [info] Validating found git in: "git"
+2023-10-13 11:26:04.732 [info] Using git "2.34.1" from "git"
+2023-10-13 11:26:04.782 [info] > git rev-parse --show-toplevel [54ms]
+2023-10-13 11:26:04.782 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-13 11:26:04.847 [info] > git rev-parse --show-toplevel [40ms]
+2023-10-13 11:26:04.847 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-13 11:26:04.864 [info] > git rev-parse --show-toplevel [7ms]
+2023-10-13 11:26:04.864 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-13 11:26:04.877 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-13 11:26:04.877 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-13 11:26:04.898 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-13 11:26:04.898 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-13 12:33:49.352 [info] > git rev-parse --show-toplevel [27ms]
+2023-10-13 12:33:49.396 [info] > git rev-parse --git-dir --git-common-dir [9ms]
+2023-10-13 12:33:49.433 [info] Open repository: /home/alan
+2023-10-13 12:33:49.462 [info] No remotes found in the git config file.
+2023-10-13 12:33:49.464 [info] > git config --get commit.template [14ms]
+2023-10-13 12:33:49.465 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-10-13 12:33:50.800 [info] > git status -z -uall [1325ms]
+2023-10-13 12:33:52.246 [info] > git config --get commit.template [233ms]
+2023-10-13 12:33:52.321 [info] No remotes found in the git config file.
+2023-10-13 12:33:52.365 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [44ms]
+2023-10-13 12:33:52.480 [info] > git status -z -uall [96ms]
+2023-10-13 12:34:49.327 [info] > git check-ignore -v -z --stdin [7ms]
+2023-10-13 12:35:48.827 [info] > git show --textconv :web.html [12ms]
+2023-10-13 12:35:48.828 [info] > git ls-files --stage -- /home/alan/web.html [3ms]
+2023-10-13 12:44:49.215 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-13 13:28:05.993 [info] > git config --get commit.template [31ms]
+2023-10-13 13:28:06.033 [info] > git ls-files --stage -- /home/alan/web.html [56ms]
+2023-10-13 13:28:06.046 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [36ms]
+2023-10-13 13:28:06.059 [info] > git cat-file -s 5c57e44cc88f5d3e92c915a35fc7b0c29dbd433c [15ms]
+2023-10-13 13:28:06.139 [info] > git show --textconv :web.html [13ms]
+2023-10-13 13:28:06.393 [info] > git status -z -uall [336ms]
+2023-10-13 13:28:26.666 [info] > git config --get commit.template [18ms]
+2023-10-13 13:28:26.668 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-10-13 13:28:26.780 [info] > git status -z -uall [102ms]
+2023-10-13 13:28:32.002 [info] > git config --get commit.template [16ms]
+2023-10-13 13:28:32.003 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-10-13 13:28:32.093 [info] > git status -z -uall [76ms]
+2023-10-13 13:28:37.271 [info] > git config --get commit.template [10ms]
+2023-10-13 13:28:37.311 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-10-13 13:28:37.494 [info] > git status -z -uall [153ms]
+2023-10-13 13:28:53.287 [info] > git config --get commit.template [44ms]
+2023-10-13 13:28:53.288 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-10-13 13:28:53.340 [info] > git status -z -uall [37ms]
+2023-10-13 13:28:58.499 [info] > git config --get commit.template [20ms]
+2023-10-13 13:28:58.571 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [12ms]
+2023-10-13 13:28:58.641 [info] > git status -z -uall [49ms]
+2023-10-13 13:29:03.792 [info] > git config --get commit.template [3ms]
+2023-10-13 13:29:03.807 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-13 13:29:04.182 [info] > git status -z -uall [365ms]
+2023-10-13 13:29:14.549 [info] > git config --get commit.template [36ms]
+2023-10-13 13:29:14.552 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2023-10-13 13:29:14.623 [info] > git status -z -uall [51ms]
